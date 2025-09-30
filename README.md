@@ -14,4 +14,4 @@ Este repositório contém o código-fonte desenvolvido no TCC (MBA em Data Scien
     IBM HR Analytics Employee Attrition & Performance - já na pasta do repositório
 3. Execute o notebook
   ```bash
-   Jupyter notebook TCC_K_means.ipynb
+    TCC_K_means.ipynb
