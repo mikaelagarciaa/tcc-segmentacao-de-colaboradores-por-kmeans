@@ -4,7 +4,7 @@ Este repositório contém o código-fonte desenvolvido no TCC (MBA em Data Scien
 
 ## Como reproduzir
 
-1. Clone este repositório e instale as dependências:
+1. Copie este repositório e instale as dependências:
    ```bash
    git clone https://github.com/SEU_USUARIO/seu-repositorio.git
    cd seu-repositorio
