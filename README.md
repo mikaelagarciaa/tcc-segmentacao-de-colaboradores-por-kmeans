@@ -9,5 +9,9 @@ Este repositório contém o código-fonte desenvolvido no TCC (MBA em Data Scien
    git clone https://github.com/SEU_USUARIO/seu-repositorio.git
    cd seu-repositorio
    pip install -r requirements.txt
-2. Baixe o dataset IBM HR Analytics Employee Attrition & Performance - já na pasta do repositório
-3. Execute o notebook: jupyter notebook TCC_K_means.ipynb
+2. Baixe o dataset
+     ```bash
+    IBM HR Analytics Employee Attrition & Performance - já na pasta do repositório
+3. Execute o notebook
+  ```bash
+   Jupyter notebook TCC_K_means.ipynb
